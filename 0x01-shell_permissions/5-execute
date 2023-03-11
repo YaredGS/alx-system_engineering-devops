@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod u+x hello
+=======
+chmod 744 hello
+>>>>>>> 0adf0dd1e5540d1d7161c4484fb1f2dce868a145

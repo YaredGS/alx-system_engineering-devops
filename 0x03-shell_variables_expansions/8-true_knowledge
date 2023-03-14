@@ -1,2 +1,3 @@
-#!/bin/bASH
+#!/bin/bash
 echo $(($TRUEKNOWLEDGE+128))
+...
